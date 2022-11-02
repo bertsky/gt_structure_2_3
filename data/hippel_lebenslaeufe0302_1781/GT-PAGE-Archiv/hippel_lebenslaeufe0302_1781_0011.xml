@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:12</Created>
+	<LastChange>2019-02-27T12:36:29</LastChange></Metadata>
+	<Page imageFilename="hippel_lebenslaeufe0302_1781_0011.jpg" imageWidth="1491" imageHeight="2131" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="60,760 899,760 899,1839 60,1839"/>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords points="163,884 163,784 78,784 78,884"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="430,1842 561,1842 561,1896 430,1896"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="catch-word">
+	<Coords points="760,1842 896,1842 896,1906 760,1906"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="910,389 910,315 81,315 81,389"/></SeparatorRegion>
+	<GraphicRegion id="r2" type="stamp">
+	<Coords points="63,1889 63,1436 2,1436 2,1889"/></GraphicRegion></Page></PcGts>

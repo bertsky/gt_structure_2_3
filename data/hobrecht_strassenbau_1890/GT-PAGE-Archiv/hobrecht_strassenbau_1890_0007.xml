@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:18</Created>
+	<LastChange>2019-02-27T12:47:22</LastChange></Metadata>
+	<Page imageFilename="hobrecht_strassenbau_1890_0007.jpg" imageWidth="3522" imageHeight="4392" type="content">
+	<PrintSpace>
+	<Coords points="2911,4188 2911,338 216,338 216,4188"/></PrintSpace>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="2538,1344 2538,655 483,655 483,1344"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1644,1516 1644,1411 1377,1411 1377,1516"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="2327,2050 2327,1672 677,1672 677,2050"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="1633,2144 1633,2061 1383,2061 1383,2144"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="2116,2411 2116,2194 866,2194 866,2411"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="1666,2533 1666,2477 1322,2477 1322,2533"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1800,2905 1800,2688 1205,2688 1205,2905"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7">
+	<Coords points="1683,3522 1683,2988 1316,2988 1316,3522"/></GraphicRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1983,3855 1983,3572 1011,3572 1011,3855"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:12</Created>
+	<LastChange>2019-02-27T12:41:15</LastChange></Metadata>
+	<Page imageFilename="hippel_lebenslaeufe0302_1781_0561.jpg" imageWidth="1491" imageHeight="2130" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_1">
+	<Coords points="300,542 704,542 704,613 300,613"/></SeparatorRegion>
+	<TextRegion id="region_2" custom="#poem" type="paragraph">
+	<Coords points="152,1014 683,1014 683,1431 152,1431"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_3">
+	<Coords points="375,1442 571,1442 571,1501 375,1501"/></SeparatorRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="427,1812 611,1812 611,1886 427,1886"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="871,373 871,328 778,328 778,373"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="592,378 592,336 378,336 378,378"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="886,526 886,413 76,413 76,526"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="907,1005 907,663 100,663 100,1005"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="892,1800 892,1544 92,1544 92,1800"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords points="892,1857 892,1813 765,1813 765,1857"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

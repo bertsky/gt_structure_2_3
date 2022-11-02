@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:15:56</Created>
+	<LastChange>2019-03-12T14:57:30</LastChange></Metadata>
+	<Page imageFilename="hugo_rechtsgeschichte_1790_0013.jpg" imageWidth="1475" imageHeight="2259" type="content">
+	<PrintSpace>
+	<Coords points="1183,2138 1183,177 63,177 63,2138"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/>
+	<RegionRefIndexed regionRef="region_7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#heading_level2" type="heading">
+	<Coords points="495,715 671,715 671,782 495,782"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="115,784 1064,784 1064,1306 115,1306"/>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords points="263,916 263,777 155,777 155,916"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level2" type="heading">
+	<Coords points="490,1330 666,1330 666,1399 490,1399"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="signature-mark">
+	<Coords points="565,1900 672,1900 672,1967 565,1967"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="catch-word">
+	<Coords points="935,1905 1039,1905 1039,1966 935,1966"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="980,338 980,272 216,272 216,338"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1096,1402 1096,1560 1060,1560 1060,1561 990,1561 990,1562 920,1562 920,1563 850,1563 850,1564 779,1564 779,1565 709,1565 709,1566 639,1566 639,1567 568,1567 568,1568 498,1568 498,1569 428,1569 428,1570 358,1570 358,1571 287,1571 287,1572 217,1572 217,1573 147,1573 147,1574 112,1574 112,1402"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1096,1562 1096,1901 112,1901 112,1576 148,1576 148,1575 218,1575 218,1574 288,1574 288,1573 359,1573 359,1572 429,1572 429,1571 499,1571 499,1570 569,1570 569,1569 640,1569 640,1568 710,1568 710,1567 780,1567 780,1566 851,1566 851,1565 921,1565 921,1564 991,1564 991,1563 1061,1563 1061,1562"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

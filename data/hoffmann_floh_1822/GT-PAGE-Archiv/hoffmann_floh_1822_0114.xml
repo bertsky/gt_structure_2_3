@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:31</Created>
+	<LastChange>2019-02-27T15:40:30</LastChange></Metadata>
+	<Page imageFilename="hoffmann_floh_1822_0114.jpg" imageWidth="1291" imageHeight="2243" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="313,276 695,276 695,338 313,338"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1171,356 1171,1265 1074,1265 1074,1266 880,1266 880,1267 686,1267 686,1268 493,1268 493,1269 299,1269 299,1270 105,1270 105,1271 9,1271 9,356"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1171,1267 1171,1385 1098,1385 1098,1386 953,1386 953,1387 807,1387 807,1388 662,1388 662,1389 517,1389 517,1390 372,1390 372,1391 226,1391 226,1392 81,1392 81,1393 9,1393 9,1273 106,1273 106,1272 300,1272 300,1271 494,1271 494,1270 687,1270 687,1269 881,1269 881,1268 1075,1268 1075,1267"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1171,1387 1171,1557 1075,1557 1075,1556 881,1556 881,1555 687,1555 687,1554 494,1554 494,1553 300,1553 300,1552 106,1552 106,1551 9,1551 9,1395 82,1395 82,1394 227,1394 227,1393 373,1393 373,1392 518,1392 518,1391 663,1391 663,1390 808,1390 808,1389 954,1389 954,1388 1099,1388 1099,1387"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="105,1553 105,1554 299,1554 299,1555 493,1555 493,1556 686,1556 686,1557 880,1557 880,1558 1074,1558 1074,1559 1171,1559 1171,1679 9,1679 9,1553"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1171,1681 1171,2101 9,2101 9,1681"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

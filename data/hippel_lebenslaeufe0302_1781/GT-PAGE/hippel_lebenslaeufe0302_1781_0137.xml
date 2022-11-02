@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:12</Created>
+	<LastChange>2019-02-27T12:40:37</LastChange></Metadata>
+	<Page imageFilename="hippel_lebenslaeufe0302_1781_0137.jpg" imageWidth="1491" imageHeight="2130" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem" type="paragraph">
+	<Coords points="122,867 848,867 848,1076 122,1076"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="427,1797 561,1797 561,1868 427,1868"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="589,357 589,318 365,318 365,357"/></SeparatorRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="863,365 863,313 771,313 771,365"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="897,855 897,384 92,384 92,855"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="913,1065 913,1167 861,1167 861,1168 757,1168 757,1169 654,1169 654,1170 551,1170 551,1171 447,1171 447,1172 344,1172 344,1173 241,1173 241,1174 137,1174 137,1175 86,1175 86,1065"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="913,1169 913,1701 891,1701 891,1702 847,1702 847,1703 804,1703 804,1704 760,1704 760,1705 717,1705 717,1706 673,1706 673,1707 630,1707 630,1708 586,1708 586,1709 543,1709 543,1710 499,1710 499,1711 455,1711 455,1712 412,1712 412,1713 368,1713 368,1714 325,1714 325,1715 281,1715 281,1716 238,1716 238,1717 194,1717 194,1718 151,1718 151,1719 107,1719 107,1720 86,1720 86,1177 138,1177 138,1176 242,1176 242,1175 345,1175 345,1174 448,1174 448,1173 552,1173 552,1172 655,1172 655,1171 758,1171 758,1170 862,1170 862,1169"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="913,1703 913,1800 86,1800 86,1722 108,1722 108,1721 152,1721 152,1720 195,1720 195,1719 239,1719 239,1718 282,1718 282,1717 326,1717 326,1716 369,1716 369,1715 413,1715 413,1714 456,1714 456,1713 500,1713 500,1712 544,1712 544,1711 587,1711 587,1710 631,1710 631,1709 674,1709 674,1708 718,1708 718,1707 761,1707 761,1706 805,1706 805,1705 848,1705 848,1704 892,1704 892,1703"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords points="894,1852 894,1807 794,1807 794,1852"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

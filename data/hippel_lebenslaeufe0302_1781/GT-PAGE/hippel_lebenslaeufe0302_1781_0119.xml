@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:12</Created>
+	<LastChange>2019-02-27T12:37:57</LastChange></Metadata>
+	<Page imageFilename="hippel_lebenslaeufe0302_1781_0119.jpg" imageWidth="1491" imageHeight="2130" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_lg" type="paragraph">
+	<Coords points="65,1105 844,1105 844,1364 65,1364"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="62,1367 853,1367 853,1576 62,1576"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="425,1802 539,1802 539,1866 425,1866"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="555,347 555,318 339,318 339,347"/></SeparatorRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="852,371 852,313 742,313 742,371"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="852,394 852,730 802,730 802,729 701,729 701,728 600,728 600,727 499,727 499,726 398,726 398,725 297,725 297,724 196,724 196,723 95,723 95,722 44,722 44,394"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="94,724 94,725 195,725 195,726 296,726 296,727 397,727 397,728 498,728 498,729 599,729 599,730 700,730 700,731 801,731 801,732 852,732 852,1110 44,1110 44,724"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="842,1810 842,1594 52,1594 52,1810"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords points="823,1860 823,1823 736,1823 736,1860"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

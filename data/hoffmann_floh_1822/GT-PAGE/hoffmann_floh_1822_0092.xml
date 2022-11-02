@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:31</Created>
+	<LastChange>2019-02-27T15:39:10</LastChange></Metadata>
+	<Page imageFilename="hoffmann_floh_1822_0092.jpg" imageWidth="1315" imageHeight="2243" type="content">
+	<PrintSpace>
+	<Coords points="1250,2236 1250,55 0,55 0,2236"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="286,249 664,249 664,334 286,334"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1124,366 1124,1415 1098,1415 1098,1416 1047,1416 1047,1417 997,1417 997,1418 946,1418 946,1419 895,1419 895,1420 845,1420 845,1421 794,1421 794,1422 743,1422 743,1423 693,1423 693,1424 642,1424 642,1425 591,1425 591,1426 541,1426 541,1427 490,1427 490,1428 439,1428 439,1429 389,1429 389,1430 338,1430 338,1431 287,1431 287,1432 237,1432 237,1433 186,1433 186,1434 135,1434 135,1435 85,1435 85,1436 34,1436 34,1437 9,1437 9,366"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1124,1417 1124,2068 9,2068 9,1439 35,1439 35,1438 86,1438 86,1437 136,1437 136,1436 187,1436 187,1435 238,1435 238,1434 288,1434 288,1433 339,1433 339,1432 390,1432 390,1431 440,1431 440,1430 491,1430 491,1429 542,1429 542,1428 592,1428 592,1427 643,1427 643,1426 694,1426 694,1425 744,1425 744,1424 795,1424 795,1423 846,1423 846,1422 896,1422 896,1421 947,1421 947,1420 998,1420 998,1419 1048,1419 1048,1418 1099,1418 1099,1417"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

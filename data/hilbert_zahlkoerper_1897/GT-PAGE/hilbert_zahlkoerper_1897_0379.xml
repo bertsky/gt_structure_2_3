@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:05</Created>
+	<LastChange>2019-02-27T12:20:36</LastChange></Metadata>
+	<Page imageFilename="hilbert_zahlkoerper_1897_0379.jpg" imageWidth="2752" imageHeight="4774" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/>
+	<RegionRefIndexed regionRef="region_6" index="4"/>
+	<RegionRefIndexed regionRef="region_7" index="5"/>
+	<RegionRefIndexed regionRef="region_8" index="6"/>
+	<RegionRefIndexed regionRef="region_9" index="7"/>
+	<RegionRefIndexed regionRef="region_10" index="8"/>
+	<RegionRefIndexed regionRef="region_11" index="9"/>
+	<RegionRefIndexed regionRef="region_12" index="10"/>
+	<RegionRefIndexed regionRef="region_13" index="11"/>
+	<RegionRefIndexed regionRef="region_14" index="12"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="2376,204 2619,204 2619,381 2376,381"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="header">
+	<Coords points="888,216 1833,216 1833,351 888,351"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level2" type="heading">
+	<Coords points="1158,396 1569,396 1569,507 1158,507"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#list_item" type="paragraph">
+	<Coords points="156,510 1947,510 1947,639 156,639"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#heading_level2" type="heading">
+	<Coords points="1014,642 1695,642 1695,771 1014,771"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" custom="#list_item" type="paragraph">
+	<Coords points="168,774 2637,774 2637,972 168,972"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" custom="#heading_level2" type="heading">
+	<Coords points="1182,996 1527,996 1527,1107 1182,1107"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_9" custom="#list_item" type="paragraph">
+	<Coords points="156,1110 2547,1110 2547,1242 156,1242"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_10" custom="#heading_level2" type="heading">
+	<Coords points="1140,1260 1575,1260 1575,1377 1140,1377"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_11" custom="#list_item" type="paragraph">
+	<Coords points="156,1380 2649,1380 2649,2118 156,2118"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_12" custom="#heading_level2" type="heading">
+	<Coords points="1080,2136 1647,2136 1647,2253 1080,2253"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_13" custom="#list_item" type="paragraph">
+	<Coords points="168,2256 2673,2256 2673,2571 168,2571"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_14">
+	<Coords points="1128,3042 1641,3042 1641,3147 1128,3147"/></SeparatorRegion></Page></PcGts>

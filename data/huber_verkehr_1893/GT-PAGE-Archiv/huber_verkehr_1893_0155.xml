@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:15:51</Created>
+	<LastChange>2019-03-12T14:57:56</LastChange></Metadata>
+	<Page imageFilename="huber_verkehr_1893_0155.jpg" imageWidth="1948" imageHeight="2723" type="content">
+	<PrintSpace>
+	<Coords points="1703,2620 1703,200 80,200 80,2620"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="483,690 1202,690 1202,775 483,775"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="293,783 1375,783 1375,850 293,850"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<NoiseRegion id="r0">
+	<Coords points="1693,1203 1693,963 1436,963 1436,1203"/></NoiseRegion>
+	<NoiseRegion id="r1">
+	<Coords points="1693,2093 1693,1856 1470,1856 1470,2093"/></NoiseRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1430,1380 1430,853 256,853 256,1380"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="1458,1834 1458,2381 226,2381 226,1837 432,1837 432,1836 843,1836 843,1835 1253,1835 1253,1834"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords points="1458,1396 1458,1699 1355,1699 1355,1700 1150,1700 1150,1701 944,1701 944,1702 739,1702 739,1703 534,1703 534,1704 328,1704 328,1705 226,1705 226,1396"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords points="1458,1701 1458,1832 1252,1832 1252,1833 842,1833 842,1834 431,1834 431,1835 226,1835 226,1707 329,1707 329,1706 535,1706 535,1705 740,1705 740,1704 945,1704 945,1703 1151,1703 1151,1702 1356,1702 1356,1701"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

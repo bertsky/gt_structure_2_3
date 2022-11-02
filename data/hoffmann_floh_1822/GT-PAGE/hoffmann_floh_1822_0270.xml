@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:31</Created>
+	<LastChange>2019-02-27T15:53:02</LastChange></Metadata>
+	<Page imageFilename="hoffmann_floh_1822_0270.jpg" imageWidth="1331" imageHeight="2243" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="306,243 668,243 668,368 306,368"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1175,376 1175,796 13,796 13,376"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1175,798 1175,979 981,979 981,980 594,980 594,981 206,981 206,982 13,982 13,798"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1175,981 1175,1160 982,1160 982,1159 595,1159 595,1158 207,1158 207,1157 13,1157 13,984 207,984 207,983 595,983 595,982 982,982 982,981"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="206,1159 206,1160 594,1160 594,1161 981,1161 981,1162 1175,1162 1175,1501 1078,1501 1078,1502 884,1502 884,1503 690,1503 690,1504 497,1504 497,1505 303,1505 303,1506 109,1506 109,1507 13,1507 13,1159"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1175,1503 1175,1978 13,1978 13,1509 110,1509 110,1508 304,1508 304,1507 498,1507 498,1506 691,1506 691,1505 885,1505 885,1504 1079,1504 1079,1503"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

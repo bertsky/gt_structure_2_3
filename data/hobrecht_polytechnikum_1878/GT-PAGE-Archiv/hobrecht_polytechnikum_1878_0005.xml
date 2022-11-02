@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:17</Created>
+	<LastChange>2019-02-27T12:45:47</LastChange></Metadata>
+	<Page imageFilename="hobrecht_polytechnikum_1878_0005.jpg" imageWidth="2255" imageHeight="3177" type="content">
+	<PrintSpace>
+	<Coords points="1684,2826 1684,407 153,407 153,2826"/></PrintSpace>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1492,1257 1492,719 238,719 238,1257"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1126,1792 1126,1330 530,1330 530,1792"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1080,2265 1080,2142 565,2142 565,2265"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="957,1969 957,1892 692,1892 692,1969"/></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="1288,2561 1288,2496 411,2496 411,2561"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1011,2665 1011,2584 661,2584 661,2665"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

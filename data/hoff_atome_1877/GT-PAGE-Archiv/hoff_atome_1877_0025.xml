@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:25</Created>
+	<LastChange>2019-02-27T15:08:03</LastChange></Metadata>
+	<Page imageFilename="hoff_atome_1877_0025.jpg" imageWidth="1948" imageHeight="2823" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/>
+	<RegionRefIndexed regionRef="region_4" index="7"/>
+	<RegionRefIndexed regionRef="region_5" index="8"/>
+	<RegionRefIndexed regionRef="region_6" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="323,286 1268,286 1268,380 323,380"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1363,300 1458,300 1458,372 1363,372"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="caption">
+	<Coords points="416,1390 595,1390 595,1453 416,1453"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="region_5">
+	<Coords points="303,1453 728,1453 728,1991 303,1991"/></GraphicRegion>
+	<TextRegion id="region_6" type="footnote">
+	<Coords points="176,2196 1481,2196 1481,2395 176,2395"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1488,380 1488,554 1421,554 1421,555 1289,555 1289,556 1156,556 1156,557 1024,557 1024,558 891,558 891,559 759,559 759,560 626,560 626,561 494,561 494,562 361,562 361,563 229,563 229,564 163,564 163,380"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1488,556 1488,836 1268,836 1268,835 826,835 826,834 384,834 384,833 163,833 163,566 230,566 230,565 362,565 362,564 495,564 495,563 627,563 627,562 760,562 760,561 892,561 892,560 1025,560 1025,559 1157,559 1157,558 1290,558 1290,557 1422,557 1422,556"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="383,835 383,836 825,836 825,837 1267,837 1267,838 1488,838 1488,1226 1421,1226 1421,1227 1289,1227 1289,1228 1156,1228 1156,1229 1024,1229 1024,1230 891,1230 891,1231 759,1231 759,1232 626,1232 626,1233 494,1233 494,1234 361,1234 361,1235 229,1235 229,1236 163,1236 163,835"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1488,1228 1488,1543 1427,1543 1427,1544 1307,1544 1307,1545 1186,1545 1186,1546 1066,1546 1066,1547 945,1547 945,1548 825,1548 825,1549 705,1549 705,1550 584,1550 584,1551 464,1551 464,1552 343,1552 343,1553 223,1553 223,1554 163,1554 163,1238 230,1238 230,1237 362,1237 362,1236 495,1236 495,1235 627,1235 627,1234 760,1234 760,1233 892,1233 892,1232 1025,1232 1025,1231 1157,1231 1157,1230 1290,1230 1290,1229 1422,1229 1422,1228"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1488,1545 1488,2163 163,2163 163,1556 224,1556 224,1555 344,1555 344,1554 465,1554 465,1553 585,1553 585,1552 706,1552 706,1551 826,1551 826,1550 946,1550 946,1549 1067,1549 1067,1548 1187,1548 1187,1547 1308,1547 1308,1546 1428,1546 1428,1545"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:10</Created>
+	<LastChange>2019-02-27T12:26:52</LastChange></Metadata>
+	<Page imageFilename="hippel_lebenslaeufe0301_1781_0267.jpg" imageWidth="1482" imageHeight="2077" type="content">
+	<PrintSpace>
+	<Coords points="1030,1917 1030,146 0,146 0,1917"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_1">
+	<Coords points="384,705 603,705 603,814 384,814"/></SeparatorRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="437,1774 556,1774 556,1836 437,1836"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="catch-word">
+	<Coords points="869,1825 869,1769 758,1769 758,1825"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="879,330 879,261 743,261 743,330"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="589,320 589,264 376,264 376,320"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="933,664 933,335 64,335 64,664"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="871,858 871,1440 740,1440 740,1439 478,1439 478,1438 216,1438 216,1437 84,1437 84,858"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="215,1439 215,1440 477,1440 477,1441 739,1441 739,1442 871,1442 871,1774 84,1774 84,1439"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

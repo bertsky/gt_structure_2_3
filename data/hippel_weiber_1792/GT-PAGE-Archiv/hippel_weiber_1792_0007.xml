@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:15:15</Created>
+	<LastChange>2019-02-27T12:44:42</LastChange></Metadata>
+	<Page imageFilename="hippel_weiber_1792_0007.jpg" imageWidth="1467" imageHeight="2094" type="content">
+	<PrintSpace>
+	<Coords points="1053,1930 1053,164 0,164 0,1930"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="39,689 817,689 817,1445 39,1445"/></GraphicRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="738,1702 738,1543 100,1543 100,1702"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="771,1523 771,1476 58,1476 58,1523"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="841,633 841,294 17,294 17,633"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
