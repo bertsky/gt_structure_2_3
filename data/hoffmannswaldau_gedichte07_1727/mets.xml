@@ -20,29 +20,34 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Staatsbibliothek München</mods:physicalLocation>
+                  <mods:shelfLocator>BSB München, P.o.germ. 640 t-7</mods:shelfLocator>
+                  <mods:url>https://opacplus.bsb-muenchen.de/title/BV035567386</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Leipzig</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1727</mods:dateIssued>
+                  <mods:publisher>Straube</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Belletristik</mods:classification>
+               <mods:classification authority="DTA">Lyrik</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Herrn von Hoffmannswaldau und andrer Deutschen auserlesener und bißher ungedruckter Gedichte</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
+               <mods:part order="7">
+               <mods:detail type="volume">
+                  <mods:number>siebender Theil</mods:number>
+               </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,9 +58,9 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Hofmannswaldau</mods:namePart>
+                  <mods:namePart type="given">Christian Hofmann von</mods:namePart>
+                  <mods:displayForm>Christian Hofmann von Hofmannswaldau</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
                   <mods:extent/>
@@ -68,7 +73,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Herrn von Hoffmannswaldau und andrer Deutschen auserlesener und bißher ungedruckter Gedichte</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
