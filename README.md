@@ -244,6 +244,25 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
+                  <td>hoffmann_beschreibung_1653</td>
+                  <td>129</td>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
                   <td>hobrecht_polytechnikum_1878</td>
                   <td>31</td>
                   <td/>
@@ -1002,25 +1021,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>20</td>
-               </tr>
-               <tr>
-                  <td>hoffmann_beschreibung_1628</td>
-                  <td>129</td>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
                </tr>
                <tr>
                   <td>hoffmannswaldau_gedichte05_1710</td>
